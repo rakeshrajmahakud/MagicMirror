@@ -1,0 +1,27 @@
+https://github.com/ryck/MMM-DHT-Sensor
+
+
+ {
+        "id": 1276325,
+        "name": "Bhadrakh",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 86.519997,
+            "lat": 21.05278
+        }
+  },
+
+
+modules
+
+https://github.com/AgP42/MMM-iFrame-Ping
+
+https://github.com/mihairinzis/MMM-wiki
+
+https://github.com/ulrichwisser/MMM-Widget
+
+https://github.com/Jopyth/MMM-Remote-Control
+
+power button for raspi:
+https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi
